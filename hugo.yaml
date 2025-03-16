@@ -1,0 +1,71 @@
+baseURL: "https://jimin.org"
+languageCode: en-us
+title: Jimin Kim
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production 
+  title: Welcome to my blog \U0001F44B!
+  description: "Welcome to my blog, I am Product Owner & Data Scientist. I love data modeling and my vision is to be 
+  data scientist based on product thinking to solve social and business problems :)"
+  keywords: [Blog, Portfolio, Data Science]
+  author: 
+  DateFormat: "January 2024"
+  defaultTheme: auto #dark, light
+  disableThemeToggole: false
+
+  ShowReadingTime: false
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+  
+  #profile-mode
+  profileMode:
+    enabled: true
+    title: "Welcome to my blog! \U0001F44B"
+    subtitle: "I am Product Owner & Data Scientist. I love data modeling 
+    and my vision is to be data scientist based on product thinking to solve social and business problems :)"
+    imageUrl: "img/profile.jpeg"
+    imageWidth: 180
+    imageHeight: 180
+    buttons:
+      - name: For any questions, send me Gmail!
+        url: "mailto:kjimin930207@gmail.com"
+  
+  socialIcons:
+    - name: github
+      url: "https://github.com/PikalounJM"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/jimin-kim93/"
+    - name: youtube
+      url: "https://www.youtube.com/@kjm6574"
+
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 1
+    - identifier: projects
+      name: Main Projects
+      url: /projects/
+      weight: 2
