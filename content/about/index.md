@@ -15,7 +15,7 @@ I work in the hospitality industry, where I'm responsible for product operations
 In 2022, while launching 'Locallive', which is a regional co-prosperity platform, I realized that data-driven decisions were essential for business growth.
 To harneess the power of data for greater business efficiency and growth, I decided to pursue graduate studies in data science while continuing to work.
 
-I'm confident that pursuing this path was one of the best decisions I've made. **My goal is to collaborate with talented data scientists, continuously learn, and contribute to impactful data-driven solutions.**
+I'm confident that pursuing this path was one of the best decisions I've made. **My goal is to collaborate with talented data scientists, continuously learn, and contribute to impactful data-driven.**
 
 I'm excited about the opportunity to grow and add value to the team.
 
