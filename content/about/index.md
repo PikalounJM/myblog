@@ -7,20 +7,17 @@ summary: "about"
 
 Hi, I'm Jimin.
 
- I'm Product Owner and Data Scientist living in Seoul, South Korea.
+ I'm a Product Owner and Data Scientist currently based in Seoul, South Korea.
 
-I currently work at hospitality industry like Hanwha resorts and I'm in charge of product operations and insight proposals
-through data analysis and modeling to provide better services to customers.  
-**And now, I'm preparing to expand my career into Data Scientist.**
+I work in the hospitality industry, where I'm responsible for product operations and delivering actionable insights through data analysis and modeling to enhance customer experience.
+**I am now focused on advancing my career toward becoming a Data Scientist.**
 
-Actually, When I launched e-commerce platform(Locallive) in 2022, I became interested in Big data and statistics.
-However, since I had very little knowledge at that time, I decided to learn more about data and that's when I came across the field of data science.
-And I did both grauate school and work.
+In 2022, while launching 'Locallive', which is a regional co-prosperity platform, I realized that data-driven decisions were essential for business growth.
+To harneess the power of data for greater business efficiency and growth, I decided to pursue graduate studies in data science while continuing to work.
 
-I never regret my decision, and I believe that taking on this challenge was the best choice I ever made.
-**My dream is to work with the smartest data scientists in the world.** 
+I'm confident that pursuing this path was one of the best decisions I've made. **My goal is to collaborate with talented data scientists, continuously learn, and contribute to impactful data-driven solutions.**
 
-So, I hope you can give me such an opportunity.
+I'm excited about the opportunity to grow and add value to the team.
 
 ------
 
