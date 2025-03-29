@@ -78,6 +78,15 @@
       </span>
       {{- end }}
     </h2>
+
+    {{- if .Params.description }}
+    <p class="post-description">{{ .Params.description | markdownify }}</p>
+    {{- end }}
+
+    {{- if .Params.dateString }}
+    <p class="post-date">{{ .Params.dateString }}</p>
+    {{- end }}
+
   </header>
   {{- if (ne (.Param "hideSummary") true) }}
   <div class="entry-content">
