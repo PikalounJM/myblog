@@ -7,7 +7,7 @@ cover:
   image: "img/local.PNG"
   alt:
   caption:
-  relative: true
+  relative: 
 showtoc: true
 draft: false
 ---

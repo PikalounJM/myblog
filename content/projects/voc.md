@@ -7,7 +7,7 @@ cover:
   image: "img/topic.PNG"
   alt:
   caption:
-  relative: true
+  relative: 
 showtoc: false
 draft: false
 weight: 202
