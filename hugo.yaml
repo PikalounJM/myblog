@@ -2,7 +2,7 @@ baseURL: "https://jmhistory.netlify.app"
 languageCode: en-us
 title: Jimin Kim
 pagination:
-  pagerSize : 5
+  pagerSize: 5
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -26,7 +26,7 @@ params:
   disableThemeToggole: false
 
   ShowReadingTime: false
-  ShowShareButtons: false
+  ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
