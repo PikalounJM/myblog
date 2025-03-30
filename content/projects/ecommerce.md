@@ -23,7 +23,7 @@ A team of PMs, UI & UX designers, and engineers was formed to develop a solution
 
 ### Role
 
-🔹 **Product Ownership**
+ 🔹 **Product Ownership**
 
 **-- Managed the overall app development** by working closely with cross-functional teams of engineers, designers, and Merchandiser.
 
@@ -37,6 +37,7 @@ A team of PMs, UI & UX designers, and engineers was formed to develop a solution
 ![Report Ime](/img/userflow.PNG)
 
 &nbsp;
+
 🔹 **Service Operation**
 
 -- Closely monitored and measured the performance of all features of Front and Admin system.
@@ -47,6 +48,7 @@ A team of PMs, UI & UX designers, and engineers was formed to develop a solution
 ![Report Ime](/img/prd.PNG)
 
 &nbsp;
+
 🔹 **Data Analysis & Modeling**
 
 -- Analyzed [**spending patterns**](https://github.com/PikalounJM/E-commerce-Modeling/blob/main/Order%20pattern.ipynb) of Korea's Traditional liquor.
