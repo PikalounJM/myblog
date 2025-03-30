@@ -1,6 +1,6 @@
 ---
 title: "Analytics of Hospitality data"
-description: A proposal driven to customer, point and booking data to expand Active-User
+description: A proposal driven to customer, point and booking data to increase Active-User
 category: projects
 dateString: April 2024 - Ongoing
 cover:
@@ -13,6 +13,7 @@ draft: false
 weight: 201
 tags: ["R", "Data Visualization", "Data Preprocessing", "GitHub"]
 ---
+
 
 &nbsp;
   ## Coding
