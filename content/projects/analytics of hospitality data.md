@@ -11,22 +11,22 @@ cover:
 showToc: false
 draft: false
 weight: 201
-tags: ["R", "Data Visualization", "Data Preprocessing", "Github"]
+tags: ["R", "Data Visualization", "Data Preprocessing", "GitHub"]
 ---
 
 &nbsp;
   ### Coding
-  The complete code can be found in 🔗 [Github](https://github.com/PikalounJM/Resort-data-analysis)
+  The complete code can be found on 🔗 [GitHub](https://github.com/PikalounJM/Resort-data-analysis)
 
 ### Backgroud
-- In this project, I proposed **customer management insight** through analysis of our current status data to expand active users.
+- In this project, I aimed to provide **customer management insights** by analyzing current data to increase the number of active users.
 
-### Data & Tool
-- Customer, Point(earn/use), Room booking **using R**
+### Dataset & Tool
+- Customer, Point transactions(earned/used), Room booking & **R**
 
 ### Method
-- To understand our customers, I identified customer proportions by customer age/grade/type/subscription period/last login period.
-- Analyzed Point earn/use history of each customer and whether or not points are earned in checkout and used as basic data for judging the efficiency of Membership system operation.
+- To better understand our customers, I analyed customer distribution by age, grade, type, subscription period, and last login period.
+- Analyzed each customer's point-earning and usage history, particularly whether points were earned at checkout. This analysis served as a basis for evaluating the efficiency of our membership system.
 
 ### Insight Report
 ![Report Ime](/img/report.PNG)

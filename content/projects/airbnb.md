@@ -16,14 +16,14 @@ tags: ["python", "Data Visualization", "Data Preprocessing", "Random Forest", "S
 
 &nbsp;
   ### Coding
-  The complete code can be found in 🔗 [Github](https://github.com/PikalounJM/Florida-Airbnb-Capstone)
+  The complete code can be found in 🔗 [GitHub](https://github.com/PikalounJM/Florida-Airbnb-Capstone)
 
 ### Backgroud
-- Due to rising inflation, Airbnb host is rapidly growthing as new job in America.
-- So, **the revenue gap** between existing and new hosts is expected to continue to increase. 
+- Due to rising inflation, Airbnb host is rapidly growing as a new job in America.
+- So, **the revenue gap** between existing and new hosts is expected to continue widening. 
 
 ### Dataset & Tool
-- Florida Airbnb booking data using Python
+- Florida Airbnb booking data & **Python**
 
 ### Method
 - Data Preprocessing > Data Visualization > PCA / SPCA > Clustering > Modeling > SHAP

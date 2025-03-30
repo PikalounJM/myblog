@@ -14,13 +14,13 @@ weight: 202
 ---
 
 ### Coding
-The complete code can be found in 🔗 [Github](https://github.com/PikalounJM/Text-Mining/blob/main/VOC_Topic%20Modeling.ipynb)
+The complete code can be found on 🔗 [GitHub](https://github.com/PikalounJM/Text-Mining/blob/main/VOC_Topic%20Modeling.ipynb)
 
 ### Backgroud
 - To identify on/offline customer inconveniences and improve usability through VOC. 
 
 ### Dataset & Tool
-- 139,010 **using Python**
+- 139,010 & **Python**
 
 ### Method
 - Complaint Keyword grouping using Topic modeling
@@ -162,5 +162,5 @@ topic_23
 ```
 &nbsp;
 ### Insight Report
-- Developed a storyline, presentation decks and briefing documents that support insights.
+- Developed storylines, presentation decks and briefing documents to communicate key insights effectively.
 ![Report Ime](/img/voc.PNG)

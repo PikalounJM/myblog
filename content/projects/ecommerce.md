@@ -1,6 +1,6 @@
 ---
 title: "Locallive: Launched E-commerce Platform"
-description: Worked with engineers, designers, merchandisers for 2 years.
+description: Worked with engineers, designers, merchandisers as a cross-functional team.
 category: projects
 dateString: Oct 2020 - Dec 2023
 cover:
@@ -13,49 +13,49 @@ draft: false
 ---
 
 ### Overview
-- Locallive is **an local coexistence e-commerce app.**
+- Locallive is **a local coexistence e-commerce app.**
 
 ### Backgroud
-- This project was initiated as a part of new online business in Covid-19s to incerase sales,
-where a team of PMs, UI & UX designers and programmers was formed to develop a solution for a given problem.
+- This project was initiated as part of a new online business during Covid-19 to incerase sales. 
+A team of PMs, UI & UX designers, and engineers was formed to develop a solution for a given problem.
 - A development of E-commerce Platform to secure the competitiveness of local small business owners and coexist with the region.
 &nbsp;
 
 ### Role
 
-* **Product Ownership**
+🔹 **Product Ownership**
 
-**-- Managed the overall development of App** with communicating programmer, designer and Merchandiser.
+**-- Managed the overall app development** by working closely with cross-functional teams of engineers, designers, and Merchandiser.
 
 &nbsp;
-* **Workflow Management**
+🔹 **Workflow Management**
 
--- As a Product Owner, compiled **'System Requirements Definition' & Operation policy** documents, designed and wireframed Front and Admin screens.
+-- As a Product Owner, compiled **'System Requirements Definition' & Operation policy** documents, and designed wireframes Front and Admin screens.
 
 ![Report Ime](/img/xmind.PNG)
 ![Report Ime](/img/order.PNG)
 ![Report Ime](/img/userflow.PNG)
 
 &nbsp;
-* **Service Operation**
+🔹 **Service Operation**
 
--- Closely monitor and measure results of all features of Front and Admin system.
+-- Closely monitored and measured the performance of all features of Front and Admin system.
 
--- familiar with product flow chart drawing, PRD writing
+-- familiar with product flow chart drawing and PRD writing
 
 **[Product Requirements Document]**
 ![Report Ime](/img/prd.PNG)
 
 &nbsp;
-* **Data Analysis & Modeling**
+🔹 **Data Analysis & Modeling**
 
--- Analyzing [**spending patterns**](https://github.com/PikalounJM/E-commerce-Modeling/blob/main/Order%20pattern.ipynb) of Korea's Traditional liquor.
+-- Analyzed [**spending patterns**](https://github.com/PikalounJM/E-commerce-Modeling/blob/main/Order%20pattern.ipynb) of Korea's Traditional liquor.
 
--- Building a [**sentimental analysis**](https://github.com/PikalounJM/E-commerce-Modeling/blob/main/reveiw_%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D.R) through review using R.
+-- Built a [**sentiment analysis**](https://github.com/PikalounJM/E-commerce-Modeling/blob/main/reveiw_%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D.R) model using review data in R.
 
--- Building [**Customer classification**](https://github.com/PikalounJM/E-commerce-Modeling/blob/main/Locallive_%20Customer%20classification.ipynb) using Ensemble, XGBoost, Random Forest with hyper-tuning.
+-- Built [**Customer classification**](https://github.com/PikalounJM/E-commerce-Modeling/blob/main/Locallive_%20Customer%20classification.ipynb) model using Ensemble, XGBoost, Random Forest with hyper-tuning.
 
 {{< youtube "ScrCw848_Cw">}}
 &nbsp;
 
-Locallive App was closed in Dec 2023. But this project was definitely worthwile chance to experience the life and death of platform to me working with makers.
+Locallive App was closed in Dec 2023. However, this project was definitely worthwhile experience for me, providing an opportunity to witness the entire lifecycle of a platform while working with talented makers.
