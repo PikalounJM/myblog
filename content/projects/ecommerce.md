@@ -12,23 +12,23 @@ showtoc: true
 draft: false
 ---
 
-### Overview
+## Overview
 - Locallive is **a local coexistence e-commerce app.**
 
-### Backgroud
+## Backgroud
 - This project was initiated as part of a new online business during Covid-19 to incerase sales. 
 A team of PMs, UI & UX designers, and engineers was formed to develop a solution for a given problem.
 - A development of E-commerce Platform to secure the competitiveness of local small business owners and coexist with the region.
 &nbsp;
 
-### Role
+## Role
 
- 🔹 **Product Ownership**
+### 🔹 Product Ownership
 
 **-- Managed the overall app development** by working closely with cross-functional teams of engineers, designers, and Merchandiser.
 
 &nbsp;
-🔹 **Workflow Management**
+### 🔹 **Workflow Management**
 
 -- As a Product Owner, compiled **'System Requirements Definition' & Operation policy** documents, and designed wireframes Front and Admin screens.
 
@@ -38,7 +38,7 @@ A team of PMs, UI & UX designers, and engineers was formed to develop a solution
 
 &nbsp;
 
-🔹 **Service Operation**
+### 🔹 **Service Operation**
 
 -- Closely monitored and measured the performance of all features of Front and Admin system.
 
@@ -49,7 +49,7 @@ A team of PMs, UI & UX designers, and engineers was formed to develop a solution
 
 &nbsp;
 
-🔹 **Data Analysis & Modeling**
+### 🔹 **Data Analysis & Modeling**
 
 -- Analyzed [**spending patterns**](https://github.com/PikalounJM/E-commerce-Modeling/blob/main/Order%20pattern.ipynb) of Korea's Traditional liquor.
 

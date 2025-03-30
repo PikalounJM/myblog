@@ -13,21 +13,21 @@ draft: false
 weight: 202
 ---
 
-### Coding
+## Coding
 The complete code can be found on 🔗 [GitHub](https://github.com/PikalounJM/Text-Mining/blob/main/VOC_Topic%20Modeling.ipynb)
 
-### Backgroud
+## Backgroud
 - To identify on/offline customer inconveniences and improve usability through VOC. 
 
-### Dataset & Tool
+## Dataset & Tool
 - 139,010 & **Python**
 
-### Method
+## Method
 - Complaint Keyword grouping using Topic modeling
 
 &nbsp;
 
-### ✏️ Code Example
+## ✏️ Code Example
 
 **1) 텍스트 전처리(Text preprocessing)**
 - 데이터 치환 및 정규표현식 적용
@@ -161,6 +161,6 @@ topic_22['Topic'] = topic_23['Topic'].replace({0:1, 1:2, 2:3})
 topic_23
 ```
 &nbsp;
-### Insight Report
+## Insight Report
 - Developed storylines, presentation decks and briefing documents to communicate key insights effectively.
 ![Report Ime](/img/voc.PNG)
