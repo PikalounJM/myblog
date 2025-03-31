@@ -69,9 +69,10 @@
       {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}
     </h2>
   </header>
-  {{- if (ne (.Param "hideSummary") true) }}
+  <!-- Added a custom param hideDescriptionInList  -->
+  {{- if (ne (.Param "hideDescriptionInList") true) }}
   <div class="entry-content">
-    <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+    <p>{{ .Description }}</p>
   </div>
   {{- end }}
   {{- if not (.Param "hideMeta") }}
