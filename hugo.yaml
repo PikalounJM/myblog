@@ -18,8 +18,7 @@ params:
   env: production 
   title: Welcome to my blog \U0001F44B!
   description: "Welcome to my blog, I am Product Owner & Data Scientist. I love data modeling and my vision is to be 
-  data scientist based on product thinking to solve social and business problems :)
-  I am a fast and enthusiastic learner who enjoys synthesizing large amounts of research and data insight"
+  data scientist based on product thinking to solve social and business problems :)"
   keywords: [Blog, Portfolio, Data Science]
   author: 
   DateFormat: "January 2024"
@@ -43,8 +42,10 @@ params:
   profileMode:
     enabled: true
     title: "Welcome to my blog! \U0001F44B"
-    subtitle: "I am Product Owner & Data Scientist. I love data modeling 
-    and my vision is to be data scientist based on product thinking to solve social and business problems :)"
+    subtitle: |
+      I am Product Owner & Data Analyst. I love data modeling and my vision is to be data scientist based on product thinking to solve social and business problems.
+      I am a fast and enthusiastic learner who enjoys synthesizing large amounts of research and data insight.
+
     imageUrl: "img/profile.jpeg"
     imageWidth: 180
     imageHeight: 180
