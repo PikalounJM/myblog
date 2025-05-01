@@ -13,12 +13,12 @@ draft: false
 ---
 
 ## Overview
-- Locallive is **a local coexistence e-commerce app.**
+- Locallive is **a local co-existence e-commerce app.**
 
 ## Backgroud
 - This project was initiated as part of a new online business during Covid-19 to incerase sales. 
 A team of PMs, UI & UX designers, and engineers was formed to develop a solution for a given problem.
-- A development of E-commerce Platform to secure the competitiveness of local small business owners and coexist with the region.
+- A development of e-commerce Platform to secure the competitiveness of local small business owners and coexist with the region.
 &nbsp;
 
 ## Role

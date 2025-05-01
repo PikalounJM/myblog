@@ -7,7 +7,7 @@ summary: "about"
 
 Hi, I'm Jimin.
 
- I'm a Product Owner and Data Analyst based in Seoul, South Korea.
+ I'm a Product Owner and Data Analyst currently based in Seoul, South Korea.
 
 I work in the hospitality industry, where I'm responsible for product operations and delivering actionable insights through data analysis and modeling to enhance customer experience.
 **I am now focused on advancing my career toward becoming a Data Scientist.**
