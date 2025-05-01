@@ -7,12 +7,12 @@ summary: "about"
 
 Hi, I'm Jimin.
 
- I'm a Product Owner and Data Scientist currently based in Seoul, South Korea.
+ I'm a Product Owner and Data Analyst currently based in Seoul, South Korea.
 
 I work in the hospitality industry, where I'm responsible for product operations and delivering actionable insights through data analysis and modeling to enhance customer experience.
 **I am now focused on advancing my career toward becoming a Data Scientist.**
 
-In 2022, while launching 'Locallive', which is a regional co-prosperity platform, I realized that data-driven decisions were essential for business growth.
+In 2022, while launching 'Locallive', a regional co-existence e-commerce platform, I realized that data-driven decisions were essential for business growth.
 To harneess the power of data for greater business efficiency and growth, I decided to pursue graduate studies in data science while continuing to work.
 
 I'm confident that pursuing this path was one of the best decisions I've made. **My goal is to collaborate with talented data scientists, continuously learn, and contribute to impactful data-driven solutions.**
@@ -39,9 +39,9 @@ I'm excited about the opportunity to grow and add value to the team.
 
 ### Experience
 
-- **Product Owner & Data Scientist at Hanwha Hotels&Resorts** (Oct 2020 - Present) Jung-gu Seoul
+- **Product Owner & Data Analyst at Hanwha Hotels&Resorts** (Oct 2020 - Present) Jung-gu Seoul
 - **Project Manager at SK Telecom** (Mar 2019 - Sept 2019) Jung-gu Seoul
-- **UXUI Manager at Mogencelab** (Feb 2017 - Jan 2019) Mapo-gu Seoul
+- **Junior Project Manager at Mogencelab** (Feb 2017 - Jan 2019) Mapo-gu Seoul
 &nbsp;
 
 ### Education
