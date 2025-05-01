@@ -2,65 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/projects/analytics-of-hospitality-data/</loc>
+    <loc>https://jmhistory.netlify.app/projects/analytics-of-hospitality-data/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/voc/</loc>
+    <loc>https://jmhistory.netlify.app/projects/voc/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/airbnb/</loc>
+    <loc>https://jmhistory.netlify.app/projects/airbnb/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/%EC%B0%A8%EB%B3%84%EA%B8%88%EC%A7%80%EB%B2%95/</loc>
+    <loc>https://jmhistory.netlify.app/projects/%EC%B0%A8%EB%B3%84%EA%B8%88%EC%A7%80%EB%B2%95/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://jmhistory.netlify.app/categories/</loc>
     <lastmod>2025-01-19T19:59:54+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/css/</loc>
+    <loc>https://jmhistory.netlify.app/tags/css/</loc>
     <lastmod>2025-01-19T19:59:54+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/first/</loc>
+    <loc>https://jmhistory.netlify.app/posts/first/</loc>
     <lastmod>2025-01-19T19:59:54+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/html/</loc>
+    <loc>https://jmhistory.netlify.app/tags/html/</loc>
     <lastmod>2025-01-19T19:59:54+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://jmhistory.netlify.app/</loc>
     <lastmod>2025-01-19T19:59:54+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://jmhistory.netlify.app/posts/</loc>
     <lastmod>2025-01-19T19:59:54+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/second/</loc>
+    <loc>https://jmhistory.netlify.app/posts/second/</loc>
     <lastmod>2025-01-19T19:59:54+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://jmhistory.netlify.app/tags/</loc>
     <lastmod>2025-01-19T19:59:54+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/tech/</loc>
+    <loc>https://jmhistory.netlify.app/categories/tech/</loc>
     <lastmod>2025-01-19T19:59:54+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://jmhistory.netlify.app/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/clustering/</loc>
+    <loc>https://jmhistory.netlify.app/tags/clustering/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/data-preprocessing/</loc>
+    <loc>https://jmhistory.netlify.app/tags/data-preprocessing/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/data-visualization/</loc>
+    <loc>https://jmhistory.netlify.app/tags/data-visualization/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/github/</loc>
+    <loc>https://jmhistory.netlify.app/tags/github/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/ecommerce/</loc>
+    <loc>https://jmhistory.netlify.app/projects/ecommerce/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://jmhistory.netlify.app/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
+    <loc>https://jmhistory.netlify.app/tags/python/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/r/</loc>
+    <loc>https://jmhistory.netlify.app/tags/r/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/random-forest/</loc>
+    <loc>https://jmhistory.netlify.app/tags/random-forest/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://jmhistory.netlify.app/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://jmhistory.netlify.app/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/shap/</loc>
+    <loc>https://jmhistory.netlify.app/tags/shap/</loc>
   </url>
 </urlset>

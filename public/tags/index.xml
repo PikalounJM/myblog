@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Jimin Kim</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://jmhistory.netlify.app/tags/</link>
     <description>Recent content in Tags on Jimin Kim</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Jan 2025 19:59:54 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jmhistory.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Css</title>
-      <link>http://localhost:1313/tags/css/</link>
+      <link>https://jmhistory.netlify.app/tags/css/</link>
       <pubDate>Sun, 19 Jan 2025 19:59:54 +0900</pubDate>
-      <guid>http://localhost:1313/tags/css/</guid>
+      <guid>https://jmhistory.netlify.app/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>http://localhost:1313/tags/html/</link>
+      <link>https://jmhistory.netlify.app/tags/html/</link>
       <pubDate>Sun, 19 Jan 2025 19:59:54 +0900</pubDate>
-      <guid>http://localhost:1313/tags/html/</guid>
+      <guid>https://jmhistory.netlify.app/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Clustering</title>
-      <link>http://localhost:1313/tags/clustering/</link>
+      <link>https://jmhistory.netlify.app/tags/clustering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/clustering/</guid>
+      <guid>https://jmhistory.netlify.app/tags/clustering/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Preprocessing</title>
-      <link>http://localhost:1313/tags/data-preprocessing/</link>
+      <link>https://jmhistory.netlify.app/tags/data-preprocessing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/data-preprocessing/</guid>
+      <guid>https://jmhistory.netlify.app/tags/data-preprocessing/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Visualization</title>
-      <link>http://localhost:1313/tags/data-visualization/</link>
+      <link>https://jmhistory.netlify.app/tags/data-visualization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/data-visualization/</guid>
+      <guid>https://jmhistory.netlify.app/tags/data-visualization/</guid>
       <description></description>
     </item>
     <item>
       <title>GitHub</title>
-      <link>http://localhost:1313/tags/github/</link>
+      <link>https://jmhistory.netlify.app/tags/github/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/github/</guid>
+      <guid>https://jmhistory.netlify.app/tags/github/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
+      <link>https://jmhistory.netlify.app/tags/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/python/</guid>
+      <guid>https://jmhistory.netlify.app/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>R</title>
-      <link>http://localhost:1313/tags/r/</link>
+      <link>https://jmhistory.netlify.app/tags/r/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/r/</guid>
+      <guid>https://jmhistory.netlify.app/tags/r/</guid>
       <description></description>
     </item>
     <item>
       <title>Random Forest</title>
-      <link>http://localhost:1313/tags/random-forest/</link>
+      <link>https://jmhistory.netlify.app/tags/random-forest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/random-forest/</guid>
+      <guid>https://jmhistory.netlify.app/tags/random-forest/</guid>
       <description></description>
     </item>
     <item>
       <title>SHAP</title>
-      <link>http://localhost:1313/tags/shap/</link>
+      <link>https://jmhistory.netlify.app/tags/shap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/shap/</guid>
+      <guid>https://jmhistory.netlify.app/tags/shap/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,68 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Jimin Kim</title>
-    <link>http://localhost:1313/</link>
+    <link>https://jmhistory.netlify.app/</link>
     <description>Recent content on Jimin Kim</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Jan 2025 19:59:54 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jmhistory.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Analytics of Hospitality data</title>
-      <link>http://localhost:1313/projects/analytics-of-hospitality-data/</link>
+      <link>https://jmhistory.netlify.app/projects/analytics-of-hospitality-data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/analytics-of-hospitality-data/</guid>
+      <guid>https://jmhistory.netlify.app/projects/analytics-of-hospitality-data/</guid>
       <description>A proposal driven to customer, point and booking data to increase Active-User</description>
     </item>
     <item>
       <title>VOC Topic Modeling</title>
-      <link>http://localhost:1313/projects/voc/</link>
+      <link>https://jmhistory.netlify.app/projects/voc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/voc/</guid>
+      <guid>https://jmhistory.netlify.app/projects/voc/</guid>
       <description>Voice of Customers, Keyword extraction, LDA</description>
     </item>
     <item>
       <title>Florida Airbnb Occupancy Rate Prediction</title>
-      <link>http://localhost:1313/projects/airbnb/</link>
+      <link>https://jmhistory.netlify.app/projects/airbnb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/airbnb/</guid>
+      <guid>https://jmhistory.netlify.app/projects/airbnb/</guid>
       <description>Airbnb Occupancy Rate prediction model to improve host&amp;#39;s profits</description>
     </item>
     <item>
       <title>Text Mining &#34;Anti-discrimination law&#34;</title>
-      <link>http://localhost:1313/projects/%EC%B0%A8%EB%B3%84%EA%B8%88%EC%A7%80%EB%B2%95/</link>
+      <link>https://jmhistory.netlify.app/projects/%EC%B0%A8%EB%B3%84%EA%B8%88%EC%A7%80%EB%B2%95/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/%EC%B0%A8%EB%B3%84%EA%B8%88%EC%A7%80%EB%B2%95/</guid>
+      <guid>https://jmhistory.netlify.app/projects/%EC%B0%A8%EB%B3%84%EA%B8%88%EC%A7%80%EB%B2%95/</guid>
       <description>Text mining, Crawling, One-hot encoding, Wordcloud</description>
     </item>
     <item>
       <title>First</title>
-      <link>http://localhost:1313/posts/first/</link>
+      <link>https://jmhistory.netlify.app/posts/first/</link>
       <pubDate>Sun, 19 Jan 2025 19:59:54 +0900</pubDate>
-      <guid>http://localhost:1313/posts/first/</guid>
+      <guid>https://jmhistory.netlify.app/posts/first/</guid>
       <description>&lt;h1 id=&#34;this-is-a-heading-one&#34;&gt;This is a heading one&lt;/h1&gt;
 &lt;h2 id=&#34;this-is-a-heading-two&#34;&gt;This is a heading two&lt;/h2&gt;
 &lt;p&gt;This is a paragraph.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Second post</title>
-      <link>http://localhost:1313/posts/second/</link>
+      <link>https://jmhistory.netlify.app/posts/second/</link>
       <pubDate>Sun, 19 Jan 2025 19:59:54 +0900</pubDate>
-      <guid>http://localhost:1313/posts/second/</guid>
+      <guid>https://jmhistory.netlify.app/posts/second/</guid>
       <description>&lt;p&gt;This is the second post.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://jmhistory.netlify.app/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://jmhistory.netlify.app/about/</guid>
       <description>about</description>
     </item>
     <item>
       <title>Locallive: Launched E-commerce Platform</title>
-      <link>http://localhost:1313/projects/ecommerce/</link>
+      <link>https://jmhistory.netlify.app/projects/ecommerce/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/ecommerce/</guid>
+      <guid>https://jmhistory.netlify.app/projects/ecommerce/</guid>
       <description>Worked with engineers, designers, merchandisers as a cross-functional team.</description>
     </item>
   </channel>
