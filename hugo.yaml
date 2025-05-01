@@ -4,7 +4,6 @@ title: Jimin Kim
 pagination:
   pagerSize: 5
 theme: PaperMod
-googleAnalytics: null
 
 enableRobotsTXT: true
 buildDrafts: false
