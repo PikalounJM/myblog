@@ -16,7 +16,7 @@ tags: ["python", "Data Visualization", "Data Preprocessing", "Random Forest", "S
 
 &nbsp;
   ## Coding
-  The complete code can be found in 🔗 [GitHub](https://github.com/PikalounJM/Florida-Airbnb-Capstone)
+  The complete code can be found in 🔗 [GitHub](https://github.com/PikalounJM/Team-Project/blob/main/Capstone_project/Airbnb_capstone.ipynb)
 
 ## Backgroud
 - Due to rising inflation, Airbnb host is rapidly growing as a new job in America.
