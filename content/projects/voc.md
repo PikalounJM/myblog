@@ -14,7 +14,7 @@ weight: 202
 ---
 
 ## Coding
-The complete code can be found on 🔗 [GitHub](https://github.com/PikalounJM/Text-Mining/blob/main/VOC_Topic%20Modeling.ipynb)
+The complete code can be found on 🔗 [GitHub](https://github.com/PikalounJM/Data-Analytics-Science/blob/main/Modeling/VOC_Topic%20Modeling.ipynb)
 
 ## Backgroud
 - To identify on/offline customer inconveniences and improve usability through VOC. 
